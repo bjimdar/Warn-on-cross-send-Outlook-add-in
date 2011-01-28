@@ -1,0 +1,48 @@
+Warn on Cross-send Outlook add-in.
+Brian Jimdar
+1/27/2011
+
+
+
+Overview:
+Simple add-in for Microsoft Outlook that warns a user when they are emailing users in one domain from an email account associated with another. For example, you try to send an email to bunchOfUsers@MyWork.com, but you didn't notice that the outlook window is set to send from me@myPersonalEmail.com (instead of you@MyWork.com), you'll get a nice "oops, are you sure" dialog.
+
+
+
+
+Details:
+When Microsoft Outlook is configured to connect to more then one Email account the add in keeps track of all your email accounts. For example you may have outlook configured to connect and display email from:
+
+	me@myWork.com, 
+	me@myPersonalEmail.com, 
+	me@myVolunteerOrg.org, 
+	me@myOtherJob.ru,
+	myCustomerServiceInbox@myWork.com
+	etc.
+
+Problem is that outlook makes it very easy to send email to your team at work from the wrong email account. If you're not paying attention to the little "From:" dropdown box in the email window you can fire off an reply to a big email thread at work annoucing to everyone what your personal email address is.
+Even worse, a lot of internal email aliases at work do not accept external email, so your mail will not get delivered.
+
+
+How does it work... exactly?
+
+Example 1:
+
+-------------------------------
+From: 	me@myPersonalEmail.com
+To: myBoss@myWork.com; 
+cc: paul@myWork.com; steve@myWork.com
+subject: I am awesome
+-------------------------------
+
+The "Warn on Cross-Send" addin will notice that you're trying to send an email to people on the "myWork.com" domain from the "myPersonalEmail.com" domain and pop up a little "Are you sure?" dialog that will allow you to cancel the send operation and fix the From: sending account.
+
+Known Issues:
+Don't really have the install working yet, so you'll have compile it and install it manually.
+
+
+
+Release notes:
+
+1/27/2011 - Intitial check in. Works but no installer yet.
+	

@@ -1,0 +1,14 @@
+C:\Projects\Scratch\Vectria\New folder\WarnOnCrossSend\WarnOnCrossSendOutlookAddIn\bin\Debug\WarnOnCrossSendOutlookAddIn.dll
+C:\Projects\Scratch\Vectria\New folder\WarnOnCrossSend\WarnOnCrossSendOutlookAddIn\bin\Debug\WarnOnCrossSendOutlookAddIn.pdb
+C:\Projects\Scratch\Vectria\New folder\WarnOnCrossSend\WarnOnCrossSendOutlookAddIn\bin\Debug\WarnOnCrossSendOutlookAddIn.dll.manifest
+C:\Projects\Scratch\Vectria\New folder\WarnOnCrossSend\WarnOnCrossSendOutlookAddIn\bin\Debug\WarnOnCrossSendOutlookAddIn.vsto
+C:\Projects\Scratch\Vectria\New folder\WarnOnCrossSend\WarnOnCrossSendOutlookAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Projects\Scratch\Vectria\New folder\WarnOnCrossSend\WarnOnCrossSendOutlookAddIn\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Projects\Scratch\Vectria\New folder\WarnOnCrossSend\WarnOnCrossSendOutlookAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Projects\Scratch\Vectria\New folder\WarnOnCrossSend\WarnOnCrossSendOutlookAddIn\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Projects\Scratch\Vectria\New folder\WarnOnCrossSend\WarnOnCrossSendOutlookAddIn\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Scratch\Vectria\New folder\WarnOnCrossSend\WarnOnCrossSendOutlookAddIn\obj\Debug\WarnOnCrossSendOutlookAddIn.Properties.Resources.resources
+C:\Projects\Scratch\Vectria\New folder\WarnOnCrossSend\WarnOnCrossSendOutlookAddIn\obj\Debug\GenerateResource.read.1.tlog
+C:\Projects\Scratch\Vectria\New folder\WarnOnCrossSend\WarnOnCrossSendOutlookAddIn\obj\Debug\GenerateResource.write.1.tlog
+C:\Projects\Scratch\Vectria\New folder\WarnOnCrossSend\WarnOnCrossSendOutlookAddIn\obj\Debug\WarnOnCrossSendOutlookAddIn.dll
+C:\Projects\Scratch\Vectria\New folder\WarnOnCrossSend\WarnOnCrossSendOutlookAddIn\obj\Debug\WarnOnCrossSendOutlookAddIn.pdb
